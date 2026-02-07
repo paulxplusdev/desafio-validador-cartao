@@ -1,0 +1,15 @@
+/workspaces/desafio-validador-cartao/bin/Debug/net10.0/desafio-validador-cartao
+/workspaces/desafio-validador-cartao/bin/Debug/net10.0/desafio-validador-cartao.deps.json
+/workspaces/desafio-validador-cartao/bin/Debug/net10.0/desafio-validador-cartao.runtimeconfig.json
+/workspaces/desafio-validador-cartao/bin/Debug/net10.0/desafio-validador-cartao.dll
+/workspaces/desafio-validador-cartao/bin/Debug/net10.0/desafio-validador-cartao.pdb
+/workspaces/desafio-validador-cartao/obj/Debug/net10.0/desafio-validador-cartao.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/desafio-validador-cartao/obj/Debug/net10.0/desafio-validador-cartao.AssemblyInfoInputs.cache
+/workspaces/desafio-validador-cartao/obj/Debug/net10.0/desafio-validador-cartao.AssemblyInfo.cs
+/workspaces/desafio-validador-cartao/obj/Debug/net10.0/desafio-validador-cartao.csproj.CoreCompileInputs.cache
+/workspaces/desafio-validador-cartao/obj/Debug/net10.0/desafio-validador-cartao.sourcelink.json
+/workspaces/desafio-validador-cartao/obj/Debug/net10.0/desafio-validador-cartao.dll
+/workspaces/desafio-validador-cartao/obj/Debug/net10.0/refint/desafio-validador-cartao.dll
+/workspaces/desafio-validador-cartao/obj/Debug/net10.0/desafio-validador-cartao.pdb
+/workspaces/desafio-validador-cartao/obj/Debug/net10.0/desafio-validador-cartao.genruntimeconfig.cache
+/workspaces/desafio-validador-cartao/obj/Debug/net10.0/ref/desafio-validador-cartao.dll
